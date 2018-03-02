@@ -1,0 +1,38 @@
+{
+  "name": "top-component-ignite-electrode",
+  "version": "0.0.1",
+  "description": "top-component-ignite-electrode",
+  "main": "lib/index.js",
+  "author": {
+    "name": "",
+    "url": "https://github.com/gregmckenzie88"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregmckenzie88/top-component-ignite-electrode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gregmckenzie88/top-component-ignite-electrode/issues"
+  },
+  "homepage": "https://github.com/gregmckenzie88/top-component-ignite-electrode",
+  "dependencies": {},
+  "devDependencies": {
+    "electrode-archetype-react-component": "^5.0.0",
+    "electrode-archetype-react-component-dev": "^5.0.0"
+  },
+  "engines": {
+    "node": ">= 4",
+    "npm": ">= 3"
+  },
+  "scripts": {
+    "prepublish": "clap prepublish",
+    "start": "clap demo",
+    "test": "clap check"
+  },
+  "keywords": [
+    "react",
+    "electrode",
+    "electrode-component",
+    "react-component"
+  ]
+}

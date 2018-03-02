@@ -1,0 +1,29 @@
+{
+  "name": "top-component-ignite-electrode",
+  "version": "0.0.1",
+  "description": "top-component-ignite-electrode-component",
+  "author": {
+    "name": "",
+    "url": "https://github.com/gregmckenzie88"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregmckenzie88/top-component-ignite-electrode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gregmckenzie88/top-component-ignite-electrode/issues"
+  },
+  "homepage": "https://github.com/gregmckenzie88/top-component-ignite-electrode",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test",
+    "publish": "lerna publish"
+  },
+  "dependency": {},
+  "devDependencies": {
+    "lerna": "^2.8.0",
+    "lodash": "^4.10.1",
+    "xclap": "^0.2.0"
+  },
+  "private": true
+}
